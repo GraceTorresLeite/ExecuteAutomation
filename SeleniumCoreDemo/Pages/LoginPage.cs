@@ -24,6 +24,7 @@ namespace SeleniumCoreDemo.Pages
         {
             textUserName.SendKeys(userName);
             textPassword.SendKeys(password);
+            btnLogin.Submit();
         }
     }
 }

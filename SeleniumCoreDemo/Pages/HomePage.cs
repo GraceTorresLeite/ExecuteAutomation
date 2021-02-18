@@ -19,7 +19,7 @@ namespace SeleniumCoreDemo.Pages
 
         public void ClickLogin() => linkLogin.Click();
 
-        public bool IsEmployeeDetails() => linkEmployeeDetails.Displayed;
+        public bool IsEmployeeDetailsExist() => linkEmployeeDetails.Displayed;
 
 
     }
