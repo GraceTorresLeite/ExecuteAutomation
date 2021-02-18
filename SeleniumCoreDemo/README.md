@@ -23,6 +23,8 @@
 #### error class 2015 in version ChromeDriver/ solution found in the 2020 class
 <img src="/SeleniumCoreDemo/img/error-chrome.png" width="500" height="300">
 
+#### [Reference gitignore](https://qastack.com.br/programming/2143956/gitignore-for-visual-studio-projects-and-solutions)
+
   
 
 
